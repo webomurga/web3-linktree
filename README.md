@@ -1,3 +1,5 @@
+<img src="https://github.com/webomurga/web3-linktree/assets/77240224/35c00ce0-ff1d-4c5b-83fa-62e62e3c9208" width="300"  height="300" />
+
 # Web3 Linktree
 
 Web3 Linktree is a decentralized platform that allows users to create and share their own personalized portfolios of their online presence and achievements. Users can showcase their degen activities, such as gambling, trading, and investing in crypto; their NFT collections, such as digital art, music, and collectibles; their Wordcel blogs, where they express their opinions and insights on various topics; their work resume via Superteam Earn, where they can find and apply for freelance opportunities in the crypto space; and their other on-chain credentials, such as identity, reputation, and social tokens. Web3 Linktree leverages the Internet Computer Protocol, a blockchain network that hosts smart contracts and data on-chain, to provide a secure, transparent, and scalable solution for users to build their Web3 brand and community.
